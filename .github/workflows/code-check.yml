@@ -10,15 +10,6 @@ on:
       - "**/*.css"
       - "**/*.scss"
       - "**/*.md"
-  push:
-    paths:
-      - "**/*.js"
-      - "**/*.ts"
-      - "**/*.vue"
-      - "**/*.json"
-      - "**/*.css"
-      - "**/*.scss"
-      - "**/*.md"
 
 jobs:
   lint:
